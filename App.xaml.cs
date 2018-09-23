@@ -13,5 +13,6 @@ namespace TestJap
     /// </summary>
     public partial class App : Application
     {
+		//Nothing is written here
     }
 }
