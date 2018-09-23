@@ -248,6 +248,7 @@ namespace TestJap
             }
         }
 
+		//This is a comment
         private void btnPositiveNegative_Click(object sender, RoutedEventArgs e)
         {
             if (operation == "")
